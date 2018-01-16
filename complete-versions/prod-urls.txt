@@ -1,0 +1,43 @@
+.sponsor-pic-one {
+  background-image: url('https://www.myomnipod.com/sites/default/files/CDN-logo-dark21.png');}
+.sponsor-pic-two {
+  background-image: url('https://www.myomnipod.com/sites/default/files/CWDLogo2017-600.png');}
+.sponsor-pic-three {
+  background-image: url('https://www.myomnipod.com/sites/default/files/New_JDRF_Logo.png');}
+.breakout-img-one {
+  background-image: url('https://www.myomnipod.com/sites/default/files/About-the-sitter.png');}
+.breakout-img-two {
+  background-image: url('https://www.myomnipod.com/sites/default/files/about-the-family.png');}
+.breakout-img-three {
+  background-image:url('https://www.myomnipod.com/sites/default/files/where-to-find-diabetes-supplies.png');}
+.breakout-img-four {
+  background-image: url('https://www.myomnipod.com/sites/default/files/2-to-3-hours.png');}
+.breakout-img-five {
+  background-image: url('https://www.myomnipod.com/sites/default/files/3-to-5-hours.png');}
+.breakout-img-six {
+  background-image: url('https://www.myomnipod.com/sites/default/files/Overnight.png');}
+.main {
+  background-image: url('https://www.myomnipod.com/sites/default/files/pattern-6-resized.png');}
+.header {
+  background-image: url('https://www.myomnipod.com/sites/default/files/header_img.png');}
+
+.header-two {
+  background-image: url('https://www.myomnipod.com/sites/default/files/katie-redone.png'); }
+.header-three {
+  background-image: url('https://www.myomnipod.com/sites/default/files/nathaniel-redone.png');
+}
+  <a href='https://www.myomnipod.com/sites/default/files/2018-01/Insulet%20Omnipod%20Diabetes%20Sitters%20Guide.pdf'>
+
+<a href='https://www.myomnipod.com/sites/default/files/2018-01/About_the_Sitter_19126_5A_AW_R1_07_17.pdf'>
+<a href='https://www.myomnipod.com/sites/default/files/2018-01/Family_Info_19127_5A_AW_R1_07_17.pdf'>
+
+<a href='https://www.myomnipod.com/sites/default/files/2018-01/Diabetes_Supplies_19128_5A_AW_R1_07_17.pdf'>
+<a href='https://www.myomnipod.com/sites/default/files/2018-01/3_Hour_Sitting_19129_5A_AW_R1_07_17.pdf'>
+
+<a href='https://www.myomnipod.com/sites/default/files/2018-01/5_Hour_Sitting_19130_5A_AW_R1_07_17.pdf'
+
+ <a href='https://www.myomnipod.com/sites/default/files/2018-01/Sitting_Overnight_19160_AW_R1_07_17.pdf'>
+
+ <img src='https://www.myomnipod.com/sites/default/files/CDN-logo-dark21.png' class='sponsor'>
+ <img src='https://www.myomnipod.com/sites/default/files/CWDLogo2017-600.png' class='sponsor'>
+ <img src='https://www.myomnipod.com/sites/default/files/New_JDRF_Logo.png' class='sponsor'>

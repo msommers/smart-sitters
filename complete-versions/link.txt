@@ -1,0 +1,25 @@
+STG:
+Guide: https://insuletstg.prod.acquia-sites.com/sites/default/files/2018-01/Insulet%20Omnipod%20Diabetes%20Sitters%20Guide.pdf
+
+About the sitter: https://insuletstg.prod.acquia-sites.com/sites/default/files/2018-01/About_the_Sitter_19126_5A_AW_R1_07_17.pdf
+About the family: https://insuletstg.prod.acquia-sites.com/sites/default/files/2018-01/Family_Info_19127_5A_AW_R1_07_17.pdf
+Supplies: https://insuletstg.prod.acquia-sites.com/sites/default/files/2018-01/Diabetes_Supplies_19128_5A_AW_R1_07_17.pdf
+
+2-3 Hours: https://insuletstg.prod.acquia-sites.com/sites/default/files/2018-01/3_Hour_Sitting_19129_5A_AW_R1_07_17.pdf
+3-5 Hours:https://insuletstg.prod.acquia-sites.com/sites/default/files/2018-01/5_Hour_Sitting_19130_5A_AW_R1_07_17.pdf
+Overnight: https://insuletstg.prod.acquia-sites.com/sites/default/files/2018-01/Sitting_Overnight_19160_AW_R1_07_17.pdf
+
+Demo: https://www.myomnipod.com/demo%3Flink%3D2%26ctoken%3D70150000000DYhrAAG?ctoken=70150000000DYhrAAG&link=2
+
+
+PROD:
+
+Guide:https://www.myomnipod.com/sites/default/files/2018-01/Insulet%20Omnipod%20Diabetes%20Sitters%20Guide.pdf
+
+About the sitter: https://www.myomnipod.com/sites/default/files/2018-01/About_the_Sitter_19126_5A_AW_R1_07_17.pdf
+About the family: https://www.myomnipod.com/sites/default/files/2018-01/Family_Info_19127_5A_AW_R1_07_17.pdf
+Supplies: https://www.myomnipod.com/sites/default/files/2018-01/Diabetes_Supplies_19128_5A_AW_R1_07_17.pdf
+
+2-3 Hours: https://www.myomnipod.com/sites/default/files/2018-01/3_Hour_Sitting_19129_5A_AW_R1_07_17.pdf
+3-5 Hours: https://www.myomnipod.com/sites/default/files/2018-01/5_Hour_Sitting_19130_5A_AW_R1_07_17.pdf
+Overnight: https://www.myomnipod.com/sites/default/files/2018-01/Sitting_Overnight_19160_AW_R1_07_17.pdf
